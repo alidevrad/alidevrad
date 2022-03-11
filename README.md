@@ -22,9 +22,7 @@
   <a href="https://dotnet.microsoft.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/9cc77120b80abcd6bfcdc8f426f3a58621e7b64cc40520ad14ab73c7835279b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65652f2e4e45545f436f72655f4c6f676f2e737667" height="60px" alt="dotnet" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="max-width: 100%;">
   </a>
-  <a href="https://www.java.com/en/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/923eea6a54760c8adc876b3afab4fec69342f619a1428b14d8ae211d2f7801cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138" alt="Java" data-canonical-src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" style="max-width: 100%;">
-  </a>
+
   <a href="https://hub.docker.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/926c8518051d2fb0f50b237486fb2329df734df8a67c507a2fd85d218f3fc7de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667" alt="docker" data-canonical-src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" style="max-width: 100%;">
   </a>
