@@ -15,7 +15,15 @@
   </strong>
 </p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="max-width: 100%;">
+<p align="center" dir="auto"> 
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9cc77120b80abcd6bfcdc8f426f3a58621e7b64cc40520ad14ab73c7835279b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65652f2e4e45545f436f72655f4c6f676f2e737667"><img src="https://camo.githubusercontent.com/9cc77120b80abcd6bfcdc8f426f3a58621e7b64cc40520ad14ab73c7835279b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65652f2e4e45545f436f72655f4c6f676f2e737667" alt="dotnet" width="50" height="50" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f5fc77b9df972837a675a5a42223da882dad9c690c3f6be3d10a069fe7dd6f41/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f67727063696f2f67727063696f2d617232312e737667"><img src="https://camo.githubusercontent.com/f5fc77b9df972837a675a5a42223da882dad9c690c3f6be3d10a069fe7dd6f41/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f67727063696f2f67727063696f2d617232312e737667" alt="grpc" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0457b39c9f03fe70813597429df2869686b448edc928136be4f3e8526bd1f988/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d617232312e737667"><img src="https://camo.githubusercontent.com/0457b39c9f03fe70813597429df2869686b448edc928136be4f3e8526bd1f988/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d617232312e737667" alt="rabbitmq" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" style="max-width: 100%;"></a>
+</p>
+
 <!--
 **alidevrad/alidevrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
