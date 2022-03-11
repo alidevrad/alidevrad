@@ -1,5 +1,6 @@
 ### Hi there, I'm Ali Radravesh 👋
-
+Professional skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="max-width: 100%;">
 <!--
 **alidevrad/alidevrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
