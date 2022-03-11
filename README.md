@@ -9,7 +9,11 @@
  </a>
 </p>
 
-Professional skills
+<p align="center" dir="auto"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="max-width: 100%;">
 <!--
