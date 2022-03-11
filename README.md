@@ -25,15 +25,6 @@
   <a href="https://go.dev/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/4724436344c2473558068577d7e9e6b597c2baabe75a499cd67e04a448e00d84/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6c616e672f676f6c616e672d617232312e737667" alt="golang" data-canonical-src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" style="max-width: 100%;">
   </a>
-  <a href="/meysamhadeli/meysamhadeli/blob/main">
-    <img src="https://camo.githubusercontent.com/2d750a7a1cae7f8d5f8a3a6d5cb6c63c1fe80a17794dd79800a86a4881ce900c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636f6e73756c696f2f636f6e73756c696f2d617232312e737667" alt="consul" data-canonical-src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" style="max-width: 100%;">
-  </a>
-  <a href="https://angular.io" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/64963f8d6be1e7415dda9e42b09194a0e188cde966bcef6bbeb284ee889747df/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e67756c61722f616e67756c61722d617232312e737667" alt="angular" data-canonical-src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" style="max-width: 100%;">
-  </a>
-  <a href="/meysamhadeli/meysamhadeli/blob/main">
-    <img src="https://camo.githubusercontent.com/4c26b04cc5bd7e79be56db93623fba40f5bf1973dbb29750bde0c33bf59dce16/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d617232312e737667" alt="typescript" data-canonical-src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" style="max-width: 100%;">
-  </a>
   <a href="https://hub.docker.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/926c8518051d2fb0f50b237486fb2329df734df8a67c507a2fd85d218f3fc7de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667" alt="docker" data-canonical-src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" style="max-width: 100%;">
   </a>
