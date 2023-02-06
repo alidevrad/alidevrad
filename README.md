@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **.NET Core, Java spring projects**
 
-- 💬 Ask me about : .NET Core, C#, Clean-Architecture, Microservices, CQRS, Clean Code, DDD, TDD.
+- 💬 Ask me about : Java, Spring, .NET Core, C#, Clean-Architecture, Microservices, CQRS, Clean Code, DDD, TDD.
 - 📧 Feel free if you have an open source project and search for another developer.
       Please email to me for contributing .
 
